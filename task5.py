@@ -43,7 +43,7 @@ print(num6)
 Pen="mercy core"
 print(Pen.capitalize())
 print(Pen.title())
-first_name = input("AbdulRahman")
+first_name = "AbdulRahman"
 print("*" * 11 + first_name)
 print("*" * 11 + first_name + "*" * 11)
 print(first_name + "*" * 11)
